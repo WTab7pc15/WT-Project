@@ -35,12 +35,6 @@ input[type="date"]:before {
   color: #999;
 }
 
-select {
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  appearance: none;
-}
-
 /* Dropdown Icon */
 
 label.wrap {
