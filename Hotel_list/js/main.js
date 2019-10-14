@@ -38,5 +38,4 @@ output.innerHTML = "Price/Night: " + slider.value; // Display the default slider
 // Update the current slider value (each time you drag the slider handle)
 slider.oninput = function () {
   output.innerHTML = "Price/Night: " + this.value;
-  console.log(this.value);
 }
