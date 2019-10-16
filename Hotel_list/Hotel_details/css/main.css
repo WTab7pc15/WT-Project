@@ -1,0 +1,143 @@
+.card
+{
+	border: none;
+	border-radius: 0px;
+}
+.card-img-top
+{
+	border-radius: 0px;
+}
+.card-body
+{
+	background: #f4f5fa;
+	padding-left: 80px;
+	padding-top: 71px;
+	padding-right: 50px;
+	padding-bottom: 101px;
+	-webkit-transition: all 200ms ease;
+	-moz-transition: all 200ms ease;
+	-ms-transition: all 200ms ease;
+	-o-transition: all 200ms ease;
+	transition: all 200ms ease;
+}
+.rooms_title h2
+{
+	color: #150f24;
+	-webkit-transition: all 200ms ease;
+	-moz-transition: all 200ms ease;
+	-ms-transition: all 200ms ease;
+	-o-transition: all 200ms ease;
+	transition: all 200ms ease;
+}
+.card-special .rooms_title h2
+{
+	color: #ffffff;
+}
+.rooms_text
+{
+	margin-top: 30px;
+}
+.rooms_text p
+{
+	-webkit-transition: all 200ms ease;
+	-moz-transition: all 200ms ease;
+	-ms-transition: all 200ms ease;
+	-o-transition: all 200ms ease;
+	transition: all 200ms ease;
+}
+.card-special .rooms_text p
+{
+	color: #ffffff;
+}
+.rooms_list
+{
+	margin-top: 36px;
+}
+.rooms_list ul li:not(:last-of-type)
+{
+	margin-bottom: 14px;
+}
+.rooms_list ul li img
+{
+	margin-right: 22px;
+}
+.rooms_list ul li span
+{
+	font-size: 15px;
+	font-weight: 400;
+	color: #4a4f59;
+	-webkit-transition: all 200ms ease;
+	-moz-transition: all 200ms ease;
+	-ms-transition: all 200ms ease;
+	-o-transition: all 200ms ease;
+	transition: all 200ms ease;
+}
+.card-special .rooms_list ul li span
+{
+	color: #ffffff;
+}
+.rooms_price
+{
+	margin-top: 33px;
+	font-size: 36px;
+	font-weight: 700;
+	color: #ff9000;
+	-webkit-transition: all 200ms ease;
+	-moz-transition: all 200ms ease;
+	-ms-transition: all 200ms ease;
+	-o-transition: all 200ms ease;
+	transition: all 200ms ease;
+}
+.card-special .rooms_price,
+.card-special .rooms_price span
+{
+	color: #ffffff;
+}
+.rooms_price span
+{
+	font-size: 18px;
+	font-weight: 700;
+	color: #4a4f59;
+	margin-left: 5px;
+}
+.rooms_button
+{
+	margin-top: 41px;
+}
+button:active
+{
+	outline: none;
+}
+.button
+{
+	width: 186px;
+	height: 65px;
+	background: #ff9000;
+	text-align: center;
+	border: solid 2px #ff9000;
+	-webkit-transition: all 200ms ease;
+	-moz-transition: all 200ms ease;
+	-ms-transition: all 200ms ease;
+	-o-transition: all 200ms ease;
+	transition: all 200ms ease;
+}
+.button:hover
+{
+	background: transparent;
+}
+.button a
+{
+	display: block;
+	height: 100%;
+	width: 100%;
+	font-size: 14px;
+	font-weight: 700;
+	color: #ffffff;
+	text-transform: uppercase;
+	letter-spacing: 0.075em;
+	line-height: 61px;
+}
+.button:hover a
+{
+	color: #ff9000;
+}
